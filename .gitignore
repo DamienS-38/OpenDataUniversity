@@ -1,0 +1,10 @@
+# Ignore les fichiers non nécessaires
+carte_culture_score.html
+New.ipynb
+Mémo Open Data University.odt
+
+# Ignorer les fichiers volumineux de données brutes
+Data/elections
+ressources/
+
+
